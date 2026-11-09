@@ -1,1 +1,1 @@
-# C-basics
+Learning C# programming basics from scratch.
